@@ -5,6 +5,7 @@ pandas==1.4.3
 Pillow==9.2.0
 plotly==5.10.0
 streamlit==1.37.1
-streamlit_folium==1.15.1
+streamlit_folium==0.25.3
+
 
 
